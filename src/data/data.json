@@ -1,0 +1,28 @@
+[
+    {
+        "title" : "AI",
+        "childrens" : [
+            {
+              "title": "Machine Learning",
+              "path": "/"
+            },
+            {
+                "title": "Computer Vision",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title" : "Game Development",
+        "childrens" : [
+            {
+              "title": "AR",
+              "path": "/"
+            },
+            {
+                "title": "3D",
+                "path": "/"
+            }
+        ]
+    }
+]
